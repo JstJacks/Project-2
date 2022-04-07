@@ -1,6 +1,7 @@
 # Project-2 - Group B
 
-![elonmusk](https://www.google.com/search?q=Elon+Musk+Meme&sxsrf=APq-WBsTwZX3XvlwWD1vogSua09nuv0v4Q:1649331250888&tbm=isch&source=iu&ictx=1&vet=1&fir=P3-52jf_UcPhmM%252CzK4oyID1KHRN5M%252C_%253BIcZEpVHJ6DrdkM%252C95BTRt4VCVBykM%252C_%253Bl259NJMvzuu2nM%252CiTwHUrSuuJSDVM%252C_%253BlimTcZcwb9L8uM%252CqNIYD7gYGz8S-M%252C_%253BS1NHDhaaPb0meM%252C_UvG-cpXUliivM%252C_%253BTbqke42yN6VS1M%252CRZxa0QOQYbd8aM%252C_%253Bark5n-XnR-LwIM%252CasvhliH4YArLrM%252C_%253BCqj9O2uoZib7HM%252CBitL5Oa2kEw6NM%252C_%253B4Y0YxTW1O9j2JM%252CD1NwV508HyD8GM%252C_%253BK-M3AJ3wt703rM%252CfmGhiGqtOvOOtM%252C_%253BTz1xCOUMtAduPM%252CUoJK_QEXZRR9fM%252C_%253BY5isqj31Ts-9CM%252C_VgU1-60JUojcM%252C_%253Bzi0dS2ci5QZQQM%252CNRm5MmfzuJ5SRM%252C_&usg=AI4_-kTZ8NObFU8cTxGKuee2ZgG-0w9niw&sa=X&ved=2ahUKEwik183a7YH3AhWIIbcAHYPNAUYQ9QF6BAggEAE#imgrc=K-M3AJ3wt703rM)
+![elonmusk](https://sm.mashable.com/t/mashable_in/photo/default/elon-copy_8bm9.1248.jpg)  
+
 ## Title Slide
 
 ## Include the name of the project and group members.
