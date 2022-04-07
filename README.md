@@ -1,4 +1,4 @@
-# Project-2 - Group B
+# Project-2 - Group B - Twitter Sentiment Analysis
 
 ![elonmusk](https://sm.mashable.com/t/mashable_in/photo/default/elon-copy_8bm9.1248.jpg)  
 
