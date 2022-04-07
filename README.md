@@ -15,12 +15,12 @@ Members include:
 
 
 ## Motivation & Summary Slide
-we want to investigate if twitter posted from influencial pepople will have a positive/negative impact on the price of crypto/commodities/stock market
+We want to investigate if tweets posted from influencial people will have a positive/negative impact on the price of crypto/commodities/stock market.
 
 ## Define the core message, or hypothesis, of your project.
-conducting sentimental analysis of influencial twitter accounts and use those twits to predict the future pricing of crypto/commodities/stock market
-if time permits, we can also build a chatbot to advice what to invest in based on someone's twitter post
-visulisation of graphs
+Conducting sentimental analysis of influencial twitter accounts and use those tweets to predict the future pricing of crypto/commodities/stock market.
+If time permits, we can also build a chatbot to advice what to invest in based on someone's twitter post
+visulisation of graphs.
 
 ## Model Summary
 - chatbots
@@ -30,9 +30,13 @@ visulisation of graphs
 ## Elaborate on the predictive model used, describing why it was the best choice for the data.
 - NLP
 - Classification
-? AWS LEX/Lambda for chatbot?
+- Spacy
+
+## Tools Used
+- AWS LEX/Lambda for chatbot?
 - google colab
 - 
+
 
 
 ## Data Cleanup & Model Training
@@ -52,9 +56,11 @@ Maybes
 
 ## Describe the exploration and cleanup process.
 
+Utilise APIs to pull data from at least the last 2 years into python dictionaries and then into CSV formatted files for easy data manipulation and visualisation.
 
 ## Discuss any problems that arose with preparing the data or training the model that you didn't anticipate.
 
+Issues that arised during this process was that some libraries would not work in google colab so we had to change which library we used and how we pulled data with the APIs.
 
 ## Discuss the overall training process and highlight anything of interest with the training process: Cloud resources used, training time required, issues with training.
 
