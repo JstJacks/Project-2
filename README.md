@@ -2,7 +2,7 @@
 
 ![elonmusk](https://sm.mashable.com/t/mashable_in/photo/default/elon-copy_8bm9.1248.jpg)  
 
-## Sentiment Analysis Utilising Twitter, News and Crypto APIS
+## Sentiment Analysis Utilising Twitter, News and Crypto APIs
 
 ## Include the name of the project and group members.
 Project twitters
