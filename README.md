@@ -20,12 +20,12 @@ Conducting sentimental analysis of influencial twitter accounts, news articles a
 - Deep Learning
 
 ## Elaborate on the predictive model used, describing why it was the best choice for the data.
-> Time Series Analysis
+* Time Series Analysis
   Linear regression model was used to analyse the relationship between twitter sentiment score and the daily price change of crypto currency. 
-> Natural Language Processing
+* Natural Language Processing
   Vader sentiment analysis was used as we need to assign a score to each twitter post in order to determine if it is a positive or negative post and how these sentiment relates to price changes
-> Deep Learning
-  Deep
+
+  
 ## Tools Used
 - Linear regression
 - NLTK
@@ -93,7 +93,7 @@ With these inputs a simple linear regression model, with the addition of lagged 
 
 ![google_model.png](google_model.png)
 
-## Discuss the techniques you used to evaluate the model performance.
+### Discuss the techniques you used to evaluate the model performance.
 There were 3 metrics used to evaluate simple linear egression model performance:
 R Squared - is a statistical measure that represents the proportion of the variance for a dependent variable that's explained by an independent variable or variables in a regression model. 59.8% in the Ethereum case and 16.1% in Bitcoin.
 MSE - is a measure of how close a fitted line is to data points. For every data point, the distance taken vertically from the point to the corresponding y value on the curve fit (the error),  and square the value.
