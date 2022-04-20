@@ -45,7 +45,7 @@ Conducting sentimental analysis of influencial twitter accounts, news articles a
 3. obtain crypto currency data with yahoo finance
 4. concat both data into a dataframe for time series analysis and predictions
 
-! [tweets.png](tweets.png)
+![tweets.png](tweets.png)
 
 ### Discuss any problems that arose with preparing the data or training the model that you didn't anticipate.
 - When doing twitter sentiment analysis on general population for a specific cryptocurrency, issues arose with the amount of data we can pull as there are more than 100,000 tweets about a certain topic such as bitcoin
@@ -71,7 +71,7 @@ Bernoulli Naive Bayes - precision 0.87
 SVM (Support Vector Machine) - precision  0.97
 Logistic Regression - precision 0.96
 
-! [twitter_models.png](twitter_model.png)
+![twitter_models.png](twitter_model.png)
 
 # Google trend
 In many parts of the world nearly every aspect of day-to-day life now involves the internet. How the internet is navigated is through search engines and Google is far and away the world’s most popular search engine as it accounts for 74.52% of all internet searches. Google makes this data available through ”Google Trends”. Google Trends data provides information on how popular given search terms are relative to other search terms at any given time. In addition, these search term popularity values can be compared over time. This provides a proxy metric for the general interest there is in cryptocurrencies at any given time, which could have a relationship with cryptocurrency prices over time as general interest increases and decreases.
