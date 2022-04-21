@@ -98,3 +98,19 @@ There were 3 metrics used to evaluate simple linear egression model performance:
 R Squared - is a statistical measure that represents the proportion of the variance for a dependent variable that's explained by an independent variable or variables in a regression model. 59.8% in the Ethereum case and 16.1% in Bitcoin.
 MSE - is a measure of how close a fitted line is to data points. For every data point, the distance taken vertically from the point to the corresponding y value on the curve fit (the error),  and square the value.
 MAE - is a measure of errors between paired observations expressing the same phenomenon.
+
+# Dow Jones
+
+### Describe the exploration and cleanup process. 
+
+Alpaca Trade API was used to retrieve stock data for the model. Data exploration and cleaning via the API was complicated by Alpacas upgrade to Trader v2 API. In my opinion, the API documentation was prepared for users with an intermediate to an advanced level of computer science. As a beginner, I overcame this initial obstacle by referring to our previous training on APIs together with Alpacas Postman collection. Alpacas postman collection is available at the following URL - https://www.postman.com/alpacamarkets/workspace/alpaca-public-workspace/documentation/17430392-af6823e1-0e8c-4387-9cef-dffbfbae836f  
+
+### Discuss any problems that arose with preparing the data or training the model that you didn't anticipate 
+
+Overall model development was challenged by the limited time allocated to complete this project. In future projects, this problem may be overcome by assigning a dedicated role to each group member (in addition to the project manager) for data exploration, product management etc.  
+
+
+
+### Discuss the techniques you used to evaluate the model performance. 
+
+Tensorboard was used to evaluate model performance. Tensorboard is Tensorflow’s visual toolkit that provides various tools for machine learning experiments, some of which include the ability to view histograms of weights and biases as they change over time. Please see https://www.tensorflow.org/tensorboard for more details. 
