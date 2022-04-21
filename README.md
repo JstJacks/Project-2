@@ -9,7 +9,7 @@ Members include:
 - Kseniya Chadayeva
 - Anthony Mura
 
-## Project Presentation
+## Project Presentation PDF
 
 1. [Project Presentation](https://github.com/JstJacks/Project-2/blob/main/TWITTER%20and%20WEB%20SENTIMENT%20ANALYSIS.pdf)
 
