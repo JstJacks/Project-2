@@ -11,7 +11,7 @@ Members include:
 
 ## Project Presentation
 
-2. [Project Presentation](https://github.com/JstJacks/Project-2/blob/main/TWITTER%20and%20WEB%20SENTIMENT%20ANALYSIS.pdf)
+1. [Project Presentation](https://github.com/JstJacks/Project-2/blob/main/TWITTER%20and%20WEB%20SENTIMENT%20ANALYSIS.pdf)
 
 ## Motivation & Summary Slide
 We want to investigate if tweets posted from influencial people will have a positive/negative impact on the price of various asset classes such as cryptocurrency, commodities, stocks etc
